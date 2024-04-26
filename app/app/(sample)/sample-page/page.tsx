@@ -3,6 +3,7 @@ export default function SamplePage() {
     <div>
       <h1>Sample Page</h1>
       <p>This is a sample page.</p>
+      <p>EIEI</p>
     </div>
   );
 }
